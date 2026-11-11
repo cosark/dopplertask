@@ -84,6 +84,10 @@ Open **http://localhost:8090** and choose *try an example you can run right away
 > [!NOTE]
 > Building from source gives you everything on this page. The image on Docker Hub is from an earlier version until the next release is published.
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/DopplerTask/)
+
 ## Connect your agent
 
 DopplerTask speaks the [Model Context Protocol](https://modelcontextprotocol.io), so any agent that does can use it, with no setup. For Claude Code:
